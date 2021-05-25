@@ -1,5 +1,5 @@
-<%-- <%@page import="kr.co.jimmy.DAO.MemberDAO"%>
-<%@page import="kr.co.jimmy.VO.MemberVO"%>
+<%@page import="test.MemberDAO"%>
+<%@page import="test.MemberVO"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <%
@@ -27,4 +27,4 @@
 <body>
 
 </body>
-</html> --%>
+</html>
